@@ -1,0 +1,8 @@
+QUANTIFIED MEMECOINS - LOCAL INSTALLATION GUIDE
+
+1. Ensure Python 3.10+ is installed.
+2. Open terminal and navigate to this folder.
+3. Run: pip install -r requirements.txt
+4. Then launch the app: streamlit run app.py
+
+Your memecoin analyzer will open in your browser.
